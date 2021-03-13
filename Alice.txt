@@ -1,8 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Change in Alice
-updated changes
-chagneconfilic
-alice master
-change change
-
-
+abcdf
